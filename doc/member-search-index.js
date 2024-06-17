@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.mahad","c":"Inheritance2","l":"Inheritance2()","u":"%3Cinit%3E()"},{"p":"com.mahad","c":"Inheritance2","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
